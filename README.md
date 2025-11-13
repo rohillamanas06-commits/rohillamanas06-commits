@@ -35,9 +35,6 @@
   <!-- Profile Views Counter -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&color=blueviolet&style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/rohillamanas06-commits?tab=followers">
-      <img src="https://img.shields.io/github/followers/rohillamanas06-commits?style=for-the-badge&color=blueviolet&label=Follow" alt="GitHub followers" />
-    </a>
   </p>
   
 </div>
@@ -74,15 +71,12 @@
 ### ⚡ Fun Fact
 > "I don't write bugs, I write features that need AI debugging!" 😄
 
----
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📈 My GitHub Stats
+### 📈 Manas GitHub Stats
 
 <p align="center">
   <a href="https://github.com/rohillamanas06-commits">
@@ -91,11 +85,11 @@
   </a>
 </p>
 
-### 🏆 GitHub Streak
+### 🏆 Manas GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohillamanas06-commits&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
-### 📊 Contribution Graph
+### 📊 Manas Contribution Graph
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohillamanas06-commits&custom_title=My%20Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7)](https://github.com/rohillamanas06-commits/github-readme-activity-graph)
 
@@ -113,22 +107,12 @@
     style="max-width: 100%;"
   />
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=rohillamanas06-commits&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
 </div>
 
 ---
 
 <div align="center">
-
-```javascript
-while(alive) {
-    eat();
-    sleep();
-    code_with_AI();
-    repeat();
-}
-```
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
