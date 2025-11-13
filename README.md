@@ -44,9 +44,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate developer who loves to build amazing things with code and AI. My journey in software development has been an exciting adventure of continuous learning and problem-solving. I believe in the power of technology to make a positive impact, and I'm always eager to take on new challenges that push my boundaries.
 
 ## 🛠️ Tech Stack
 
@@ -62,15 +59,15 @@ I'm a passionate developer who loves to build amazing things with code and AI. M
 
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### 🤖 AI & Developer Tools
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)](https://lovable.dev)
 [![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Windsurf](https://img.shields.io/badge/Windsurf-00D4FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDhWMTZMMTIgMjJMMjAgMTZWOEwxMiAyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://codeium.com/windsurf)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://cursor.sh)
 
 </div>
 
@@ -100,7 +97,7 @@ I'm a passionate developer who loves to build amazing things with code and AI. M
 
 ### 📊 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohillamanas06-commits&custom_title=My%20Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7)](https://github.com/rohillamanas06-commits/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohillamanas06-commits&custom_title=My%20Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7)](https://github.com/rohillamanas06-commits/github-readme-activity-graph)
 
 </div>
 
@@ -122,38 +119,22 @@ I'm a passionate developer who loves to build amazing things with code and AI. M
 
 ---
 
-## 🚧 Current Focus
-
 <div align="center">
 
 ```javascript
-const developer = {
-  pronouns: "he" | "him",
-  code: ["Python", "Java", "C"],
-  askMeAbout: ["web dev", "ai", "tech", "app dev"],
-  technologies: {
-    backEnd: {
-      python: ["Flask", "FastAPI"],
-      database: ["PostgreSQL", "SQLite"]
-    },
-    devOps: ["Docker", "GitHub Actions"],
-    tools: ["VS Code", "Git", "GitHub Copilot"]
-  },
-  architecture: ["Microservices", "RESTful APIs"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
+while(alive) {
+    eat();
+    sleep();
+    code_with_AI();
+    repeat();
+}
 ```
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
 ### 🎮 When I'm Not Coding...
 
-- 🔭 I'm currently working on **AI-powered applications**
-- 🌱 I'm currently learning **Advanced Python and Machine Learning**
-- 👯 I'm looking to collaborate on **open source projects**
-- 🤔 I'm looking for help with **scaling applications**
-- 💬 Ask me about **Python, AI, or any tech-related stuff**
-- 📫 How to reach me: [@your_twitter](https://twitter.com/your_twitter)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+**Just kidding! I'm always coding (with AI by my side)!** 😎
 
 </div>
 
@@ -161,37 +142,16 @@ const developer = {
 
 <div align="center">
 
-## 💡 Developer Wisdom
+### 💬 Developer Wisdom
 
-> "The most dangerous phrase in the language is 'We've always done it this way!" - Grace Hopper
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=AI%20is%20not%20replacing%20developers.%20Developers%20using%20AI%20are%20replacing%20developers%20not%20using%20AI.&author=The%20Future" />
 
-> "AI is not replacing developers. Developers using AI are replacing developers not using AI." - The Future
+---
 
-## 🤝 Let's Connect
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohillamanas06-commits)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourusername/)
-
-</div>
-
-## 🚀 Let's Build Something Amazing Together!
+### 🚀 Let's Build Something Amazing Together!
 
 I'm always open to interesting projects and collaborations. If you have an idea you'd like to discuss or just want to connect, feel free to reach out!
 
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/rohillamanas06-commits/count.svg)
-  
-  **Thanks for visiting my profile!** ✨
-  
-  [![GitHub Stars](https://img.shields.io/github/stars/rohillamanas06-commits?label=Stars&style=social)](https://github.com/rohillamanas06-commits)
-  [![GitHub Followers](https://img.shields.io/github/followers/rohillamanas06-commits?label=Follow&style=social)](https://github.com/rohillamanas06-commits?tab=followers)
-  
-  ![Snake animation](https://github.com/rohillamanas06-commits/rohillamanas06-commits/blob/output/github-contribution-grid-snake.svg)
   
 </div>
