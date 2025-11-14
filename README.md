@@ -70,7 +70,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohillamanas06-commits&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohillamanas06-commits&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohillamanas06-commits&theme=radical&hide_border=true&background=0D1117)
 
