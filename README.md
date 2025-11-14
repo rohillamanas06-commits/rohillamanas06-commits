@@ -11,7 +11,7 @@
   <!-- Profile Section -->
   <div style="margin: 20px 0;">
     <img 
-      src="https://i.pinimg.com/originals/1a/6c/4b/1a6c4b9f0e8c8e3f3e6e3c0e8e3c0e8e.gif" 
+      src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
       width="250" 
       alt="Coding Cat Animation"
       style="border-radius: 50%; box-shadow: 0 0 20px #a855f7; transition: transform 0.3s ease;"
