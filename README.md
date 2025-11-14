@@ -74,8 +74,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohillamanas06-commits&theme=radical&hide_border=true&background=0D1117)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohillamanas06-commits&label=Profile%20views&color=blueviolet&style=flat)
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohillamanas06-commits&theme=darkhub&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
