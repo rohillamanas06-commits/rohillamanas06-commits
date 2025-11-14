@@ -39,8 +39,6 @@
   
 </div>
 
-
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -69,43 +67,6 @@
 
 ### ⚡ Fun Fact
 > "I don't write bugs, I write features that need AI debugging!" 😄
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Manas GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/rohillamanas06-commits">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohillamanas06-commits&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohillamanas06-commits&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-### 🏆 Manas GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohillamanas06-commits&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-### 📊 Manas Contribution Graph
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohillamanas06-commits&custom_title=My%20Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7)](https://github.com/rohillamanas06-commits/github-readme-activity-graph)
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=rohillamanas06-commits&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" 
-    alt="GitHub Trophies" 
-    style="max-width: 100%;"
-  />
-
-  
-</div>
 
 
 <div align="center">
