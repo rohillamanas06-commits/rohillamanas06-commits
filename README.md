@@ -59,11 +59,12 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ### 🤖 AI & Developer Tools
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Bolt AI](https://img.shields.io/badge/Bolt%20AI-00A67E?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boltai.com/)
+[![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0.dev/)
 [![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)](https://lovable.dev)
 [![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Windsurf](https://img.shields.io/badge/Windsurf-00D4FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDhWMTZMMTIgMjJMMjAgMTZWOEwxMiAyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://codeium.com/windsurf)
