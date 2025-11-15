@@ -63,7 +63,7 @@
 
 ### 🤖 AI & Developer Tools
 
-[![Bolt AI](https://img.shields.io/badge/Bolt%20AI-00A67E?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boltai.com/)
+[![Bolt AI](https://img.shields.io/badge/Bolt%20AI-00A67E?style=for-the-badge&logo=vercel&logoColor=white)](https://bolt.new/)
 [![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0.dev/)
 [![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)](https://lovable.dev)
 [![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
