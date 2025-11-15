@@ -39,17 +39,15 @@
   
 </div>
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
- 
-<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-</div>
 
 ### 🛠️ Backend Development
 
@@ -58,13 +56,9 @@
 
 ### 🚀 Deployment
 
-<div align="center">
-
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
-
-</div>
 
 ### 🤖 AI & Developer Tools
 
