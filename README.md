@@ -75,21 +75,6 @@
 ### ⚡ Fun Fact
 > "I don't write bugs, I write features that need AI debugging!" 😄
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohillamanas06-commits&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rohillamanas06-commits&theme=dark&hide_border=true&background=0D1117)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohillamanas06-commits&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
