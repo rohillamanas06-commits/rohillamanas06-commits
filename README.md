@@ -76,12 +76,6 @@
 </div>
 
 
-<div align="center">
-
-### 💬 Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=AI%20is%20not%20replacing%20developers.%20Developers%20using%20AI%20are%20replacing%20developers%20not%20using%20AI.&author=The%20Future" />
-
 
 ### 🚀 Let's Build Something Amazing Together!
 
