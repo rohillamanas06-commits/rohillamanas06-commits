@@ -3,7 +3,7 @@
   <!-- Animated Header -->
   <a href="https://github.com/rohillamanas06-commits">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=80&lines=🚀+Welcome+to+my+GitHub+Profile!;👨‍💻+AI-Powered+Developer;💡+Problem+Solver;🌐+Open+Source+Enthusiast;🚀+Building+the+Future+with+Code" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=80&lines=🚀+Welcome+to+my+GitHub+Profile!;👨‍💻+AI-Based+Developer;💡+Problem+Solver;🌐+Open+Source+Enthusiast;🚀+Building+the+Future+with+Code" 
       alt="Animated Typing SVG"
     />
   </a>
@@ -77,8 +77,6 @@
 
 </div>
 
-### ⚡ Fun Fact
-> "I don't write bugs, I write features that need AI debugging!" 😄
 
 <div align="center">
 
@@ -92,9 +90,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manas-rohilla.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohillamanas06@gmail.com)
 
-### 🎮 When I'm Not Coding...
-
-**Just kidding! I'm always coding (with AI by my side)!** 😎
 
 </div>
 
