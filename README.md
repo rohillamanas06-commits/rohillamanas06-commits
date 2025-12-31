@@ -1,15 +1,22 @@
 <div align="center">
-Hey, I am Manas.
 
-Passionate AI-based developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur. Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions. Dedicated to leveraging Artificial Intelligence to solve real-world problems.
-
-<div align="center">
-	<img 
-		src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-		width="250" 
-		alt="Coding Cat Animation"
-		style="border-radius: 50%; box-shadow: 0 0 20px #a855f7; transition: transform 0.3s ease;"
-	/>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 32px; flex-wrap: wrap;">
+	<div style="flex: 1; min-width: 220px;">
+		<h2>👋 Hey, I am Manas</h2>
+		<p>
+			Passionate AI-based developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur.<br>
+			Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions.<br>
+			Dedicated to leveraging Artificial Intelligence to solve real-world problems.
+		</p>
+	</div>
+	<div style="flex: 0 0 250px; text-align: right;">
+		<img 
+			src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+			width="250" 
+			alt="Coding Cat Animation"
+			style="border-radius: 50%; box-shadow: 0 0 20px #a855f7; transition: transform 0.3s ease;"
+		/>
+	</div>
 </div>
 
 ## 🛠️ Tech Stack
