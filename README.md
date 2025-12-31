@@ -1,42 +1,15 @@
 <div align="center">
-  
-  <!-- Animated Header -->
-  <a href="https://github.com/rohillamanas06-commits">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=80&lines=🚀+Welcome+to+my+GitHub+Profile!;👨‍💻+AI-Based+Developer;💡+Problem+Solver;🌐+Open+Source+Enthusiast;🚀+Building+the+Future+with+Code" 
-      alt="Animated Typing SVG"
-    />
-  </a>
-  
-  <!-- Profile Section -->
-  <div style="margin: 20px 0;">
-    <img 
-      src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-      width="250" 
-      alt="Coding Cat Animation"
-      style="border-radius: 50%; box-shadow: 0 0 20px #a855f7; transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.05)';"
-      onmouseout="this.style.transform='scale(1)';"/>
-  </div>
-  
-  <!-- Main Title -->
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=60&lines=Hi+👋,+I'm+Manas;AI-Powered+Developer" 
-        alt="Typing SVG" 
-      />
-    </a>
-  </h1>
-  
-  <!-- Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%F0%9F%A4%96+AI+%2B+Human+%3D+Superhuman+Developer;%E2%9A%A1+Building+the+Future+with+Code+%26+AI;%F0%9F%9A%80+Backend+Wizard+%7C+Python+Expert;%F0%9F%94%A5+Turning+Ideas+into+Reality;%F0%9F%92%9C+Powered+by+AI+%7C+Driven+by+Passion" alt="Typing SVG" />
-  
-  <!-- Profile Views Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  </p>
-  
+Hey, I am Manas.
+
+Passionate AI-based developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur. Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions. Dedicated to leveraging Artificial Intelligence to solve real-world problems.
+
+<div align="center">
+	<img 
+		src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+		width="250" 
+		alt="Coding Cat Animation"
+		style="border-radius: 50%; box-shadow: 0 0 20px #a855f7; transition: transform 0.3s ease;"
+	/>
 </div>
 
 ## 🛠️ Tech Stack
