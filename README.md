@@ -12,7 +12,7 @@
 		</td>
 		<td style="text-align: right;">
             <div style="margin-bottom: 8px;">
-                <img src="https://visitor-badge.laobi.icu/badge?page_id=manas-profile" alt="Profile Views"/>
+				 <img src="https://visitor-badge.laobi.icu/badge?page_id=rohillamanas06-commits" alt="Profile Views"/>
             </div>
 			<img 
 				src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
