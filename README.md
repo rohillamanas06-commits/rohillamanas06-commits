@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Manas Rohilla profile views](https://u8views.com/api/v1/github/profiles/228515274/views/day-week-month-total-count.svg)](https://u8views.com/github/rohillamanas06-commits)
-
 <table>
 	<tr>
 		<td style="vertical-align: middle; min-width: 300px;">
@@ -13,6 +11,9 @@
 			</p>
 		</td>
 		<td style="text-align: right;">
+            <div style="margin-bottom: 8px;">
+                <img src="https://visitor-badge.laobi.icu/badge?page_id=manas-profile" alt="Profile Views"/>
+            </div>
 			<img 
 				src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
 				width="250" 
