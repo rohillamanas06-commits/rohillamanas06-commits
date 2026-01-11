@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <table>
 	<tr>
 		<td style="vertical-align: middle; min-width: 300px;">
@@ -9,6 +8,8 @@
 				Passionate AI-based developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur.<br>
 				Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions.<br>
 				Dedicated to leveraging Artificial Intelligence to solve real-world problems.
+				
+				[![Manas Rohilla profile views](https://u8views.com/api/v1/github/profiles/228515274/views/day-week-month-total-count.svg)](https://u8views.com/github/rohillamanas06-commits)
 			</p>
 		</td>
 		<td style="text-align: right;">
