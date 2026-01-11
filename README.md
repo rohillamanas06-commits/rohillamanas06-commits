@@ -9,10 +9,13 @@
 				Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions.<br>
 				Dedicated to leveraging Artificial Intelligence to solve real-world problems.
 			</p>
+			<div style="margin-top: 10px;">
+				<img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&style=flat-square&color=blueviolet" alt="Profile views" />
+			</div>
 		</td>
 		<td style="text-align: right;">
             <div style="margin-bottom: 8px;">
-				 <img src="https://visitor-badge.laobi.icu/badge?page_id=rohillamanas06-commits" alt="Profile Views"/>
+                
             </div>
 			<img 
 				src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
