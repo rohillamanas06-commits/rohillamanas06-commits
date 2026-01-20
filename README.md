@@ -5,7 +5,7 @@
 		<td style="vertical-align: middle; min-width: 300px;">
 			<h2>👋 Hey, I am Manas</h2>
 			<p>
-				Passionate AI-based developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur.<br>
+				Passionate AI-Focused developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur.<br>
 				Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions.<br>
 				Dedicated to leveraging Artificial Intelligence to solve real-world problems.
 			</p>
