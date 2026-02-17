@@ -6,7 +6,7 @@
 			<h2>👋 Hey, I am Manas</h2>
 			<p>
 				Passionate AI-Focused developer currently pursuing BTech in Computer Science and Engineering at Manipal University Jaipur.<br>
-				Experienced in building intelligent applications with focus on healthcare, transportation, and smart solutions.<br>
+				Experienced in building intelligent applications with focus on healthcare and smart solutions.<br>
 				Dedicated to leveraging Artificial Intelligence to solve real-world problems.
 			</p>
 			<div style="margin-top: 10px;">
