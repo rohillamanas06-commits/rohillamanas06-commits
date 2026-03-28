@@ -38,17 +38,20 @@
 			<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 			<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 			<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+        <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/></a>
 		</td>
 		<td align="center">
 			<b>Database</b><br>
 			<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+			<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 		</td>
 	</tr>
 	<tr>
 		<td align="center">
-			<b>Data Science</b><br>
+			<b>Data Science and Machine Learning</b><br>
 			<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 			<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+			<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge&logo=google&logoColor=white"/></a>
 		</td>
 		<td align="center">
 			<b>Deployment</b><br>
@@ -59,6 +62,14 @@
 		</td>
 	</tr>
 	<tr>
+		<td align="center" colspan="2">
+			<b>Backend & API</b><br>
+			<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+			<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+			<a href="https://en.wikipedia.org/wiki/Representational_state_transfer"><img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
+		</td>
+	</tr>
+	<tr>
 		<td align="center" colspan="2" style="font-size:1.2em;">
 			<b>AI & Developer Tools</b><br>
 			<a href="https://bolt.new/"><img src="https://img.shields.io/badge/Bolt%20AI-00A67E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -66,6 +77,7 @@
 			<a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white"/></a>
 			<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
 			<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+			<a href="https://sendgrid.com/"><img src="https://img.shields.io/badge/SendGrid-21A6DC?style=for-the-badge&logo=sendgrid&logoColor=white"/></a>
 		</td>
 	</tr>
 </table>
