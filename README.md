@@ -32,6 +32,22 @@
   </picture>
 </div>
 
+## 🚀 Projects
+
+- [ResuAI](https://resuai.co.in/)
+- [MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/)
+- [Cortex AI](https://cortex-ai-v1.vercel.app/)
+- [NewsScope AI News Detector](https://newsscope-ai-news-detector.vercel.app/)
+- [Weather Buddy](https://weather-buddy-v1.vercel.app/)
+- [MedMate ML](https://medmate-ml.vercel.app/)
+- [Cosmos Galaxy](https://cosmos-galaxy.vercel.app/)
+- [Gesture Sense AI](https://gesture-sense-ai.vercel.app/)
+- [TaskMate](https://taskmate-chi-three.vercel.app/)
+- [CredChain Verify](https://cred-chain-verify.vercel.app/)
+- [GraspAI](https://graspai-zeta.vercel.app/)
+- [Poly Dash Game](https://poly-dash-game.vercel.app/)
+- [My Portfolio](https://manas-rohilla.vercel.app/)
+
 ## 🛠️ Tech Stack
 
 <div align="center">
