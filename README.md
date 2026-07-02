@@ -121,8 +121,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rohilla-b73415338/)
@@ -138,12 +136,3 @@
 
 </div>
 
-
-
-### 🚀 Let's Build Something Amazing Together!
-
-I'm always open to interesting projects and collaborations. If you have an idea you'd like to discuss or just want to connect, feel free to reach out!
-
-<div align="center">
-  
-</div>
