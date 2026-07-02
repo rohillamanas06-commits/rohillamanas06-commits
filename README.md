@@ -1,6 +1,6 @@
 <h2>
   👋 Hey, I am Manas
-  &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&style=flat-square&color=blueviolet" alt="Profile views" />
+  &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&style=flat-square&color=blueviolet" alt="Profile views" style="vertical-align: middle;" align="middle" />
 </h2>
 
 <p style="margin-bottom: 30px;">
