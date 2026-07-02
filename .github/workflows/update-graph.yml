@@ -1,0 +1,28 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs at 00:00 UTC every day
+  workflow_dispatch: # allows manual triggering
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Download Graph and Remove Labels
+        run: |
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=rohillamanas06-commits&bg_color=0d1117&color=ffffff&line=39d353&point=ffffff&area=true&hide_border=true&hide_title=true" -o graph.svg
+          # Use sed to remove the Days and Contributions text elements
+          sed -i 's/<text class="ct-axis-title ct-label" [^>]*>Days<\/text>//g' graph.svg
+          sed -i 's/<text class="ct-axis-title ct-label" [^>]*>Contributions<\/text>//g' graph.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add graph.svg
+          git commit -m "chore: update activity graph" || exit 0
+          git push
