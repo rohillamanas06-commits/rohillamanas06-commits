@@ -23,6 +23,7 @@
 		</td>
 	</tr>
 </table>
+</div>
 
 <div align="center">
   <picture>
@@ -45,7 +46,7 @@
 - <img src="./public/taskmate-favicon.ico" width="16" /> [TaskMate](https://taskmate-chi-three.vercel.app/) - Smart task management and productivity app.
 - <img src="./public/credchain-favicon.ico" width="16" /> [CredChain Verify](https://cred-chain-verify.vercel.app/) - Blockchain-based credential verification.
 - <img src="./public/graspai-favicon.ico" width="16" /> [GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.
-- <img src="./public/run.ico" width="16" /> [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
+- 🏃 [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
 - <img src="./public/portfolio-favicon.ico" width="16" /> [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
 
 ## 🛠️ Tech Stack
@@ -117,6 +118,7 @@
 		</td>
 	</tr>
 </table>
+</div>
 
 
 <div align="center">
