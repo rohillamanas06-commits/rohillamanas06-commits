@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/rohillamanas06-commits">
-    <img src="https://ghchart.rshah.org/rohillamanas06-commits" alt="github contribution graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohillamanas06-commits&bg_color=0d1117&color=ffffff&line=39d353&point=ffffff&area=true&hide_border=true" alt="github contribution graph" />
   </a>
 </div>
 
