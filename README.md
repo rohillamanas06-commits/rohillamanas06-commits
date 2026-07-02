@@ -34,19 +34,19 @@
 
 ## 🚀 Projects
 
-- <img src="./public/resuai-favicon.ico" width="16" /> [ResuAI](https://resuai.co.in/)
-- <img src="./public/medmate-favicon.ico" width="16" /> [MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/)
-- <img src="./public/cortexai-favicon.ico" width="16" /> [Cortex AI](https://cortex-ai-v1.vercel.app/)
-- <img src="./public/newsscope-favicon.ico" width="16" /> [NewsScope AI News Detector](https://newsscope-ai-news-detector.vercel.app/)
-- <img src="./public/weatherbuddy-favicon.ico" width="16" /> [Weather Buddy](https://weather-buddy-v1.vercel.app/)
-- <img src="./public/medmateml-favicon.svg" width="16" /> [MedMate ML](https://medmate-ml.vercel.app/)
-- <img src="./public/cosmos-favicon.ico" width="16" /> [Cosmos Galaxy](https://cosmos-galaxy.vercel.app/)
-- <img src="./public/gesturesense-favicon.ico" width="16" /> [Gesture Sense AI](https://gesture-sense-ai.vercel.app/)
-- <img src="./public/taskmate-favicon.ico" width="16" /> [TaskMate](https://taskmate-chi-three.vercel.app/)
-- <img src="./public/credchain-favicon.ico" width="16" /> [CredChain Verify](https://cred-chain-verify.vercel.app/)
-- <img src="./public/graspai-favicon.ico" width="16" /> [GraspAI](https://graspai-zeta.vercel.app/)
-- <img src="./public/polydash-favicon.svg" width="16" /> [Poly Dash Game](https://poly-dash-game.vercel.app/)
-- <img src="./public/portfolio-favicon.ico" width="16" /> [My Portfolio](https://manas-rohilla.vercel.app/)
+- <img src="./public/resuai-favicon.ico" width="16" /> [ResuAI](https://resuai.co.in/) - AI-powered resume maker.
+- <img src="./public/medmate-favicon.ico" width="16" /> [MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/) - Intelligent healthcare and symptom analysis platform.
+- <img src="./public/cortexai-favicon.ico" width="16" /> [Cortex AI](https://cortex-ai-v1.vercel.app/) - Advanced AI conversational assistant.
+- <img src="./public/newsscope-favicon.ico" width="16" /> [NewsScope AI News Detector](https://newsscope-ai-news-detector.vercel.app/) - Tool to detect fake news and verify information.
+- <img src="./public/weatherbuddy-favicon.ico" width="16" /> [Weather Buddy](https://weather-buddy-v1.vercel.app/) - Real-time weather forecasting application.
+- <img src="./public/medmateml-favicon.svg" width="16" /> [MedMate ML](https://medmate-ml.vercel.app/) - Machine learning backend for MedMate.
+- <img src="./public/cosmos-favicon.ico" width="16" /> [Cosmos Galaxy](https://cosmos-galaxy.vercel.app/) - Interactive 3D visualization of the universe.
+- <img src="./public/gesturesense-favicon.ico" width="16" /> [Gesture Sense AI](https://gesture-sense-ai.vercel.app/) - AI-powered gesture recognition system.
+- <img src="./public/taskmate-favicon.ico" width="16" /> [TaskMate](https://taskmate-chi-three.vercel.app/) - Smart task management and productivity app.
+- <img src="./public/credchain-favicon.ico" width="16" /> [CredChain Verify](https://cred-chain-verify.vercel.app/) - Blockchain-based credential verification.
+- <img src="./public/graspai-favicon.ico" width="16" /> [GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.
+- <img src="./public/run.ico" width="16" /> [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
+- <img src="./public/portfolio-favicon.ico" width="16" /> [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
 
 ## 🛠️ Tech Stack
 
