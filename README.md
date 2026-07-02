@@ -108,11 +108,12 @@
 	</tr>
 </table>
 </div>
+<br><br>
 
+## 🤝 Connect with Me
 
 <div align="center">
-
-### 🤝 Connect with Me
+  <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rohilla-b73415338/)
 [![PeerList](https://img.shields.io/badge/PeerList-00A67E?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/rohillamanas06)
