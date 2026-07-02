@@ -1,7 +1,4 @@
-<div align="center">
-
-  <h2>👋 Hey, I am Manas</h2>
-</div>
+<h2>👋 Hey, I am Manas</h2>
 
 <p>
 	My curiosity for technology began in primary class, where I first discovered my passion for computer-related subjects. This early interest laid the foundation for my educational journey. Throughout my school years at Jain Public School, I developed a strong foundation in mathematics and science, securing 84.4% in my 10th-grade board exams and 80.2% in my 12th-grade exams. Currently in my 2nd year at Manipal University Jaipur, I am pursuing a Bachelor's degree in Computer Science and Engineering, specializing in building intelligent solutions. Through rigorous coursework and hands-on projects, I have gained practical expertise in developing AI-powered applications that address real-world challenges, particularly in the healthcare domain. This journey from early fascination with computers to becoming an AI-focused developer demonstrates my commitment to continuous learning, innovation, and leveraging technology to make a meaningful impact.
