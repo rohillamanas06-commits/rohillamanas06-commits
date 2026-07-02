@@ -52,29 +52,31 @@
 <div align="center">
 
 
-<table>
+<table width="100%">
 	<tr>
-		<td align="center">
+		<td align="center" width="50%">
 			<b>Programming Languages</b><br>
 			<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 			<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 			<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
         <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/></a>
 		</td>
-		<td align="center">
+		<td align="center" width="50%">
 			<b>Database</b><br>
 			<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 			<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 		</td>
 	</tr>
+</table>
+<table width="100%">
 	<tr>
-		<td align="center">
+		<td align="center" width="50%">
 			<b>Data Science and Machine Learning</b><br>
 			<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 			<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 			<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge&logo=google&logoColor=white"/></a>
 		</td>
-		<td align="center">
+		<td align="center" width="50%">
 			<b>Deployment</b><br>
 			<a href="https://vercel.com/rohillamanas06-1866s-projects"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 			<a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/></a>
@@ -82,8 +84,10 @@
 			<a href="https://app.netlify.com/teams/rohillamanas06-commits/projects"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 		</td>
 	</tr>
+</table>
+<table width="100%">
 	<tr>
-		<td align="center" colspan="2">
+		<td align="center">
 			<b>Backend & API</b><br>
 			<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
 			<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
@@ -91,8 +95,10 @@
 			<a href="https://en.wikipedia.org/wiki/Representational_state_transfer"><img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 		</td>
 	</tr>
+</table>
+<table width="100%">
 	<tr>
-		<td align="center" colspan="2">
+		<td align="center">
 			<b>Frontend Development</b><br>
 			<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 			<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -103,8 +109,10 @@
 			<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 		</td>
 	</tr>
+</table>
+<table width="100%">
 	<tr>
-		<td align="center" colspan="2" style="font-size:1.2em;">
+		<td align="center" style="font-size:1.2em;">
 			<b>AI & Developer Tools</b><br>
 			<a href="https://bolt.new/"><img src="https://img.shields.io/badge/Bolt%20AI-00A67E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 			<a href="https://v0.dev/"><img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
