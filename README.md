@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/rohillamanas06-commits">
-    <img src="./graph.svg" alt="github contribution graph" />
+    <img src="./graph.svg" width="100%" alt="github contribution graph" />
   </a>
 </div>
 
