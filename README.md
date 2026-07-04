@@ -15,7 +15,6 @@
 
 ## 🚀 Projects
 
-- <img src="./public/fetchrly-favicon.ico" width="16" /> [FetchrLy](https://github.com/rohillamanas06-commits/FetchrLy) - AI Cold Email Agent and career assistant platform.
 - <img src="./public/resuai-favicon.ico" width="16" /> [ResuAI](https://resuai.co.in/) - AI-powered resume maker.
 - <img src="./public/medmate-favicon.ico" width="16" /> [MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/) - Intelligent healthcare and symptom analysis platform.
 - <img src="./public/cortexai-favicon.ico" width="16" /> [Cortex AI](https://cortex-ai-v1.vercel.app/) - Advanced AI conversational assistant.
@@ -29,6 +28,7 @@
 - <img src="./public/graspai-favicon.ico" width="16" /> [GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.
 - 🏃 [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
 - <img src="./public/portfolio-favicon.ico" width="16" /> [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
+- <img src="./public/fetchrly-favicon.ico" width="16" /> [FetchrLy](https://github.com/rohillamanas06-commits/FetchrLy) - AI Cold Email Agent and career assistant platform.
 
 ## 🛠️ Tech Stack
 
