@@ -4,7 +4,10 @@
 </h2>
 
 <p style="margin-bottom: 30px;">
-	My curiosity for technology began in primary class, where I first discovered my passion for computer-related subjects. This early interest laid the foundation for my educational journey. Throughout my school years at Jain Public School, I developed a strong foundation in mathematics and science, securing 84.4% in my 10th-grade board exams and 80.2% in my 12th-grade exams. Currently in my 2nd year at Manipal University Jaipur, I am pursuing a Bachelor's degree in Computer Science and Engineering, specializing in building intelligent solutions. Through rigorous coursework and hands-on projects, I have gained practical expertise in developing AI-powered applications that address real-world challenges, particularly in the healthcare domain. This journey from early fascination with computers to becoming an AI-focused developer demonstrates my commitment to continuous learning, innovation, and leveraging technology to make a meaningful impact.
+	My curiosity for technology began in primary school, where I first discovered a deep interest in computers that never faded. That early fascination shaped everything that followed — the subjects I chose, the problems I gravitated toward, and the kind of builder I became.
+    Now in my second year of Computer Science and Engineering at Manipal University Jaipur, I've moved well beyond coursework. I build and ship AI-powered products that tackle real-world problems — from healthcare tools to FetchrLy, a job search automation platform that helps candidates cut through the noise and reach the right recruiters faster.
+    Each project has pushed me to go deeper — not just into code, but into product thinking, system design, and what it actually means to create something useful.
+    I'm not waiting to graduate to start building. I already am.
 </p>
 
 
