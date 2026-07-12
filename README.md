@@ -26,4 +26,4 @@
 - <img src="./public/graspai-favicon.ico" width="16" /> [GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.
 - 🏃 [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
 - <img src="./public/portfolio-favicon.ico" width="16" /> [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
-- <img src="./public/fetchrly-favicon.ico" width="16" /> [FetchrLy](https://github.com/rohillamanas06-commits/FetchrLy) - AI Cold Email Agent and career assistant platform.
+- <img src="./public/fetchrly-favicon.ico" width="16" /> [FetchrLy](https://fetchrly.co.in) - AI Cold Email Agent and career assistant platform.
