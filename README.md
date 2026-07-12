@@ -28,4 +28,76 @@
 - <img src="./public/portfolio-favicon.ico" width="16" /> [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
 - <img src="./public/fetchrly-favicon.ico" width="16" /> [FetchrLy](https://github.com/rohillamanas06-commits/FetchrLy) - AI Cold Email Agent and career assistant platform.
 
-
+```text
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                          .                                                      
+                                                               ,;t!IIlll;..,.                                                    
+                                                          .,:txrFTT!i;:;;iil;.                                                   
+                                                    .TnuurTT!ttjfjT;Ii....:i!l:                                                  
+                                                   lTFTTI;;;ittTI:   .,;illI;;iIii:                                              
+                                                 ;jTti;ITTtfr!!I;i:;,  :Tt:.  ,itl;i:,.                                          
+                                                lFjTljnrnj!,,lI;:::,.     ;;,:,,:IlTtT!.                                         
+                                              .tTfTtnflIiI, .:.:,.       TTi..   ,;ltI,::                                        
+                                              lT!tfjT;;:..:tl,..:;;,..  .II.:!   .:;;l;,                                         
+                                             .IT!tfnnT; .ii.::i!I;iI;:,,Ii.i:i;:  .i::;,.                                        
+                                            .:!l!t!FF.  : :i.:,,:l:...:, ,.,itT:   .:,;;:                                        
+                                              I;i,.tF. .  ,,...,;;;,..:,  .lltl;  :,,:,,,..                                      
+                                             .:,... ,;    ,,..,iIl;.   ..,fnFnjI.,, ,, .,..,                                     
+                                              :.  .      ,.,i. I!I     IFxxjnXvt.      ..                                        
+                                               ... .   I!!!t!ttl!tllI;!jzUUYXzcx;      .                                         
+                                                 ,   IrxxFtll!fjxxxuccuxjjrrnXzzn,    .                                          
+                                                 ;I. TuuT.      ;fxvzj!i,:!fjFFzzI .Fr;                                          
+                                                 jjYnnzQujF!lI;iTjjuJvrI,,IllruuTvvnXvt                                          
+                                                 FuFixvxl;,:;II:.rxzvvrtitncujrvvcfcUc!                                          
+                                                 jFlfcUzrjfTt!l!frnXLCUYzuucJCUUcvjucz:                                          
+                                                 lTIFcCJcvccuxxjrxuzLmCJYUJCCLCUYvfnzn                                           
+                                                 .jUnrJYJLCLJzcvnvuzmqQLcvzUJCJUXFFUY,                                           
+                                                  tQujuvzvxjflTft!fcJJxjYXjtcUUYuIuYj                                            
+                                                   ifltFujffItft,  :!i,ITrrTlzYvji                                               
+                                                     .l!ffT: .::,,lfFxxnuj;.tzuxT.                                               
+                                                      ;l!!tl:: ,IjnYCCv!!rcjnxxrI                                                
+                                                       i;ittffFfFxuvvcYzcYYcvxj!.                                                
+                                                       fi;lTfFfttTFFjxnvcXYXuTl.                                                 
+                                                   ,!!lnn;IlfFFffTI:iTcXXYXxTIt                                                  
+                                                  ILF..rcfi:iltfFFrnuvzXzrtIlxF.                                                 
+                                                 tJCc. rvfl;..,,:ill!!TtI,:FnuTf:                                                
+                                               .xJJUY!TUnTli;:,,       ,!jnuunllr!                                               
+                                              IYJJJUUxicjtIiiiii;;;I!tfjxuvuunI;jrT                                              
+                                          ,fXUJJYUUUUYxTflIiiiiiIIl!TjrnuvuuuxI;frjj,                                            
+                                      .fJCYfvfXJJJUYUUYr;:;iIlIll!Tfjrxnuunnrj:lfjjjjzj.                                         
+                                  .fXXcvvjfcXvYUUJJUYUXnu;:;Il!ttTfFjrxnxxxrF:;!FjFFFfucur:                                      
+                              .jcucccXUJXFvzXYYUUJCYl   ;rlll!fFFFFFjjrnnnxji ItfFjjFjtfFTxuuF.                                  
+                           ,FcXXYYXzXYJJXTxXXJJYUz!.     tTcujrnvunnxxuccvxT,,ltfFFFjjTTFffxxzzcxI                               
+                        ,!zzXXXXYYYXXYUXcFTXXYf:...,.     ,!vvvczzccuuvccvrt,:i!: :fjFftFFfrXzXcnuuxi                            
+                      :nzXXUXzzzcuunuxrnujtzzxFili;;::,     Ivzzccczcvvvunjl,il,    IFf!fFfTfffFrnnnunT                          
+                     TzzXzcuvvxnxjjjjjjFnnTxXcxtt!liiii;,    iczzcccccvunjT;!i:Il:.  .ttTFTl!TffTfrrrxxnt                        
+                    fcccxnxrjnffFTffjfttrufTnvunrT!lIII!I:.  .IcczccccvurT,.iilTTt!!I:.tTFTiIfTTtTTfFjrjjj:                      
+                   TcunuFFjfFjTtTttffTt!FuFtFxxnxfTt!ll!tl;,...;uzzzccvnji,,:!tTTTttttTTTfTilfttttTTtFFffff:                     
+                  tvvxrxFTff!lTt!t!tttt!trjTTrrxrFTTt!ll!TtI;,..ivcvcvvn!IIIItTfTTTtTffTTft;ITt!ttt!!TTTTTTT.                    
+                 iuunrjFfIltl;!ttt!!!tttIfrTTTFxrFTfTt!lltTfTIlr;luujjuuuxtttTTtTTtTTffTtIlt!Ilt!!l!tttlltttI                   
+                 FuxrjfTjt:Ii.I!ttt!Il!!i!jTTTfFFfTTfTTfTtll!Tff!ivzIfuuufxxfll!tffttTTTTfTTtli!!llT!lI!!tt!!tTt,                   
+                ,xnrFFTlttl,;.i!tttllIlI;IFTTTTTFffTfTT!lltTfTIlr;luujjuuuxtttTTtTTtTTffTtIlt!Ilt!!l!tttlltttI                   
+                !rxjfT!!l!li,.,tttt!lllI;ijTTTt!fTTTfffTt!ltFft!I;IFj!nvvr!!ttTTttTttTfTt!l!T!;I!ll!t!!lIttt!!.                  
+               .Tjjjf!IlllIi;. Il!t!llli::FTTTttttttTTffT!lltTt!!ii!I;!nT!!ttTTTttttTTTTtttttl:;Il!lIillIl!!!!i                  
+               ;!jjFF!I;;;;:;i ;I!ttt!Ii::fTTTtt!!!t!tTfft!IlTfTTtII,ItlI!tttTTTttttTTTTtttttl:;Il!lIillIl!!!!i                  
+               IIfftTT!i;,,,:::,i!ttt!li::tTtTt!!!!!!!ttTTTlI!TTtTI:;llllt!t!tTtttttTTTTtttt!I,:il!iiIIiI!!ll!!                  
+               Tlft!!!tTli:,,::.;ltT!tli::lTTTtt!ll!!!!!!TTTlltTtl:.l!ll!!ttttTtttt!TtTtttt!lI,:illI;:iIll!ll!!:                 
+              tTITT!Iil!!li:::, :ilt!!li:,ittTtt!lll!tt!!!tt!l!ttI.It!l!ll!t!!tttt!!ttttttt!li.:i!i,:IIii!!lll!i                 
+             .FtItlIi:;il!!i:,. .il!!lli;:;!!ttttllll!!!l!!!!llIl:;tt!!!l!!!t!tt!!!ttttttt!!l;.:Il:;i;;;l!llll!I                 
+             :j!ITftIi:;;illi,   ;IlllII;::I!ttt!llIl!tt!!l!!!!I;.jxt!!!l!ll!!tt!!!!!!tttt!ll:.:Ili;;,:l!llll!!I                 
+             ;jli!TTtli:::ilI:.  :iIllIi:,:iI!t!!!IIIll!!!!!!!!I,IrutlllllIl!!!!!!!l!!!!!!!lI:.;li;,.:I!lIlll!ll.                
+             Ijlil!tTtl;:::;Ii.  ,;ilIII;,:;I!!!!llIiIIl!!!!!!!i.!tt!l!llIII!!!!llllll!!!lllI,.il;,;;Illllllllll,                
+```
