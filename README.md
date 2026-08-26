@@ -11,7 +11,7 @@
 </p>
 
 
-## 🚀 Projects
+##  Projects
 
 - <img src="./public/fetchrly-favicon.ico" width="16" /> [FetchrLy](https://fetchrly.co.in) - AI Cold Email Agent and career assistant platform.
 - <img src="./public/resuai-favicon.ico" width="16" /> [ResuAI](https://resuai.co.in/) - AI-powered resume maker.
