@@ -15,6 +15,7 @@
 
 ## Projects
 
+- [FetchrLy](https://fetchrly.co.in) - AI Cold Email Agent and career assistant platform.
 - [ResuAI](https://resuai.co.in/) - AI-powered resume maker.
 - [MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/) - Intelligent healthcare and symptom analysis platform.
 - [Cortex AI](https://cortex-ai-v1.vercel.app/) - Advanced AI conversational assistant.
@@ -28,5 +29,5 @@
 - [GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.
 - [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
 - [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
-- [FetchrLy](https://fetchrly.co.in) - AI Cold Email Agent and career assistant platform.
+
 
