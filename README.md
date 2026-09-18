@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="https://img.shields.io/badge/%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
-  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="22" /></a>
-  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="https://img.shields.io/badge/%20-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="22" /></a>
-  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="https://img.shields.io/badge/%20-00AA45?style=flat-square&logo=peerlist&logoColor=white" alt="Peerlist" height="22" /></a>
-  <a href="https://substack.com/@manas20" target="_blank"><img src="https://img.shields.io/badge/%20-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" height="22" /></a>
-  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="https://img.shields.io/badge/%20-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="22" /></a>
+  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a> &nbsp;
+  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="28" height="28" /></a> &nbsp;
+  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="28" height="28" /></a> &nbsp;
+  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="28" height="28" /></a> &nbsp;
+  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="28" height="28" /></a> &nbsp;
+  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="28" height="28" /></a>
 </p>
 
 <h2>Hey, I am Manas</h2>
