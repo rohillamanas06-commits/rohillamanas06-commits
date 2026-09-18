@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="30" height="30" /></a> &nbsp;
-  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="30" height="30" /></a> &nbsp;
-  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="30" height="30" /></a> &nbsp;
-  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="30" height="30" /></a> &nbsp;
-  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="30" height="30" /></a> &nbsp;
-  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="30" height="30" /></a>
+  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" /></a> &nbsp;
+  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="28" height="28" /></a> &nbsp;
+  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28" /></a> &nbsp;
+  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="https://cdn.simpleicons.org/peerlist/00AA45" alt="Peerlist" width="28" height="28" /></a> &nbsp;
+  <a href="https://substack.com/@manas20" target="_blank"><img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" width="28" height="28" /></a> &nbsp;
+  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="https://cdn.simpleicons.org/dribbble/EA4C89" alt="Dribbble" width="28" height="28" /></a>
 </p>
 
 <h2>Hey, I am Manas</h2>
