@@ -5,12 +5,14 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="24" height="24" /></a> &nbsp;
-  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="24" height="24" /></a> &nbsp;
-  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="24" height="24" /></a> &nbsp;
-  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="24" height="24" /></a> &nbsp;
-  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="24" height="24" /></a> &nbsp;
-  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="24" height="24" /></a>
+  <a href="https://github.com/rohillamanas06-commits" target="_blank"><img src="./icons/github.svg" alt="GitHub" width="21" height="21" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="21" height="21" /></a> &nbsp;
+  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="21" height="21" /></a> &nbsp;
+  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="21" height="21" /></a> &nbsp;
+  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="21" height="21" /></a> &nbsp;
+  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="21" height="21" /></a> &nbsp;
+  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="21" height="21" /></a> &nbsp;
+  <a href="https://www.producthunt.com/@manas_rohilla_" target="_blank"><img src="./icons/producthunt.svg" alt="Product Hunt" width="21" height="21" /></a>
 </p>
 
 <h2>Hey, I am Manas</h2>
