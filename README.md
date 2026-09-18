@@ -5,14 +5,15 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/rohillamanas06-commits" target="_blank"><img src="./icons/github.svg" alt="GitHub" width="21" height="21" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="21" height="21" /></a> &nbsp;
-  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="21" height="21" /></a> &nbsp;
-  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="21" height="21" /></a> &nbsp;
-  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="21" height="21" /></a> &nbsp;
-  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="21" height="21" /></a> &nbsp;
-  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="21" height="21" /></a> &nbsp;
-  <a href="https://www.producthunt.com/@manas_rohilla_" target="_blank"><img src="./icons/producthunt.svg" alt="Product Hunt" width="21" height="21" /></a>
+  <a href="https://github.com/rohillamanas06-commits" target="_blank"><img src="./icons/github.svg" alt="GitHub" width="20" height="20" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="20" height="20" /></a> &nbsp;
+  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="20" height="20" /></a> &nbsp;
+  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="20" height="20" /></a> &nbsp;
+  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="20" height="20" /></a> &nbsp;
+  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="20" height="20" /></a> &nbsp;
+  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="20" height="20" /></a> &nbsp;
+  <a href="https://www.producthunt.com/@manas_rohilla_" target="_blank"><img src="./icons/producthunt.svg" alt="Product Hunt" width="20" height="20" /></a> &nbsp;
+  <a href="https://www.reddit.com/user/ApexYK" target="_blank"><img src="./icons/reddit.svg" alt="Reddit" width="20" height="20" /></a>
 </p>
 
 <h2>Hey, I am Manas</h2>
@@ -27,19 +28,19 @@
 
 ## Projects
 
-- [FetchrLy](https://fetchrly.co.in) - AI Cold Email Agent and career assistant platform.
-- [ResuAI](https://resuai.co.in/) - AI-powered resume maker.
-- [MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/) - Intelligent healthcare and symptom analysis platform.
-- [Cortex AI](https://cortex-ai-v1.vercel.app/) - Advanced AI conversational assistant.
-- [NewsScope AI News Detector](https://newsscope-ai-news-detector.vercel.app/) - Tool to detect fake news and verify information.
-- [Weather Buddy](https://weather-buddy-v1.vercel.app/) - Real-time weather forecasting application.
-- [MedMate ML](https://medmate-ml.vercel.app/) - Machine learning backend for MedMate.
-- [Cosmos Galaxy](https://cosmos-galaxy.vercel.app/) - Interactive 3D visualization of the universe.
-- [Gesture Sense AI](https://gesture-sense-ai.vercel.app/) - AI-powered gesture recognition system.
-- [TaskMate](https://taskmate-chi-three.vercel.app/) - Smart task management and productivity app.
-- [CredChain Verify](https://cred-chain-verify.vercel.app/) - Blockchain-based credential verification.
-- [GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.
-- [Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.
-- [My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
+[FetchrLy](https://fetchrly.co.in) - AI Cold Email Agent and career assistant platform.<br/>
+[ResuAI](https://resuai.co.in/) - AI-powered resume maker.<br/>
+[MedMate AI Health Assistant](https://med-mate-ai-health-assistant-v2.vercel.app/) - Intelligent healthcare and symptom analysis platform.<br/>
+[Cortex AI](https://cortex-ai-v1.vercel.app/) - Advanced AI conversational assistant.<br/>
+[NewsScope AI News Detector](https://newsscope-ai-news-detector.vercel.app/) - Tool to detect fake news and verify information.<br/>
+[Weather Buddy](https://weather-buddy-v1.vercel.app/) - Real-time weather forecasting application.<br/>
+[MedMate ML](https://medmate-ml.vercel.app/) - Machine learning backend for MedMate.<br/>
+[Cosmos Galaxy](https://cosmos-galaxy.vercel.app/) - Interactive 3D visualization of the universe.<br/>
+[Gesture Sense AI](https://gesture-sense-ai.vercel.app/) - AI-powered gesture recognition system.<br/>
+[TaskMate](https://taskmate-chi-three.vercel.app/) - Smart task management and productivity app.<br/>
+[CredChain Verify](https://cred-chain-verify.vercel.app/) - Blockchain-based credential verification.<br/>
+[GraspAI](https://graspai-zeta.vercel.app/) - AI learning and comprehension tool.<br/>
+[Poly Dash Game](https://poly-dash-game.vercel.app/) - 3D endless runner game.<br/>
+[My Portfolio](https://manas-rohilla.vercel.app/) - Personal portfolio showcasing my projects and skills.
 
 
