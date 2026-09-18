@@ -1,9 +1,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
-<h2>
-  Hey, I am Manas
-  &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&style=flat-square&color=blueviolet" alt="Profile views" style="vertical-align: middle;" align="middle" />
-</h2>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohillamanas06-commits&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
+
+<h2>Hey, I am Manas</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manas-rohilla/" target="_blank"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a> &nbsp;
+  <a href="https://x.com/rohilla_manas_" target="_blank"><img src="./icons/x.svg" alt="X" width="32" height="32" /></a> &nbsp;
+  <a href="https://www.instagram.com/manas_rohilla_" target="_blank"><img src="./icons/instagram.svg" alt="Instagram" width="32" height="32" /></a> &nbsp;
+  <a href="https://peerlist.io/manas_peers" target="_blank"><img src="./icons/peerlist.svg" alt="Peerlist" width="32" height="32" /></a> &nbsp;
+  <a href="https://github.com/rohillamanas06-commits" target="_blank"><img src="./icons/github.svg" alt="GitHub" width="32" height="32" /></a> &nbsp;
+  <a href="https://substack.com/@manas20" target="_blank"><img src="./icons/substack.svg" alt="Substack" width="32" height="32" /></a> &nbsp;
+  <a href="https://www.producthunt.com/@manas_rohilla_" target="_blank"><img src="./icons/producthunt.svg" alt="Product Hunt" width="32" height="32" /></a> &nbsp;
+  <a href="https://dribbble.com/manas-rohilla" target="_blank"><img src="./icons/dribbble.svg" alt="Dribbble" width="32" height="32" /></a>
+</p>
 
 <p style="margin-bottom: 30px;">
 	My curiosity for technology began in primary school, where I first discovered a deep interest in computers that never faded. That early fascination shaped everything that followed — the subjects I chose, the problems I gravitated toward, and the kind of builder I became.
